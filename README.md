@@ -1,12 +1,12 @@
 # pattern_printing_with_py
-This is my first Git Repository.
-#pattern 1 
-Output:-
-#1
-#2 2
-#3 3 3
-#4 4 4 4
-#5 5 5 5 5
+This is my first Git Repository. <br>
+#pattern 1 <br>
+Output:- <br>
+#1 <br>
+#2 2 <br>
+#3 3 3 <br>
+#4 4 4 4 <br>
+#5 5 5 5 5 <br>
 n=int(input("Enter a number : "))
 for i in range(1,n+1):#i for no. of rows starts from 1 ends with n+1
     for j in range(1,i+1):#j for no. of columns starts from 1 ends with i+1
